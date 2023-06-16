@@ -1,0 +1,97 @@
+{
+  "code": 200,
+  "data": {
+    "first_name": "HASAN",
+    "second_name": "OLIMBOYEV",
+    "third_name": "KAXROMON O‘G‘LI",
+    "full_name": "OLIMBOYEV HASAN KAXROMON O‘G‘LI",
+    "short_name": "OLIMBOYEV H. K.",
+    "student_id_number": "390221200053",
+    "image": "https://hemis.ubtuit.uz/static/crop/4/2/320_320_90_4262485420.jpg",
+    "birth_date": 934934400,
+    "email": "hasanboyolimboyev40@gmail.com",
+    "phone": "+998942354070",
+    "gender": {
+      "code": "11",
+      "name": "Erkak"
+    },
+    "university": "Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universiteti Urganch filiali",
+    "specialty": {
+      "code": "70610302",
+      "name": "Axborot xavfsizligi (yo‘nalishlar bo‘yicha)"
+    },
+    "studentStatus": {
+      "code": "11",
+      "name": "O‘qimoqda"
+    },
+    "educationForm": {
+      "code": "11",
+      "name": "Kunduzgi"
+    },
+    "educationType": {
+      "code": "12",
+      "name": "Magistr"
+    },
+    "group": {
+      "id": 150,
+      "name": "M951-22 AXo'"
+    },
+    "faculty": {
+      "id": 1,
+      "name": "Kompyuter injiniringi",
+      "code": "390-101",
+      "structureType": {
+        "code": "11",
+        "name": "Fakultet"
+      },
+      "parent": null
+    },
+    "educationLang": {
+      "code": "11",
+      "name": "O‘zbek"
+    },
+    "level": {
+      "code": "11",
+      "name": "1-kurs"
+    },
+    "semester": {
+      "id": 531,
+      "code": "12",
+      "name": "2-semestr",
+      "current": true,
+      "education_year": {
+        "code": "2022",
+        "name": "2022-2023",
+        "current": true
+      }
+    },
+    "password_valid": true,
+    "address": "KATTA JIRMIZ QFY, NUROBOD MFY,  uy:R/S",
+    "country": {
+      "code": "UZ",
+      "name": "O‘zbekiston"
+    },
+    "province": {
+      "code": "1733",
+      "name": "Xorazm viloyati",
+      "_parent": "1733"
+    },
+    "district": {
+      "code": "1733223",
+      "name": "Xonqa tumani",
+      "_parent": "1733"
+    },
+    "socialCategory": {
+      "code": "10",
+      "name": "Boshqa"
+    },
+    "accommodation": {
+      "code": "11",
+      "name": "O‘z uyida"
+    },
+    "validateUrl": "https://student.ubtuit.uz/api/info/student?h=f72239e1-74cc-f4b4-aa23-793fc2391a13",
+    "hash": "4c1b4bd4be8fbe7f4e17cbb177be06f28b995adfd257136e098ae9bec3876e8a"
+  },
+  "error": null,
+  "success": true
+}

@@ -1,0 +1,25 @@
+390181100097!ABDALYAZOV SHOXRUX RAVSHONOVICH!5-kurs!962-18 KIo'!Maktabgacha ta’lim muassasalari uchun harf va sonlarni o‘rgatuvchi mobil ilova ishlab chiqish!0!52
+_390181100100!ABDULLAYEVA DINARA XAYDAROVNA!5-kurs!962-18 KIo'!“Internet marketing ” fanini o’rgatuvchi mobil ilova ishlab chiqish!100!18
+_390201100485!AMINOV NE’MATJON SHAROFADDIN O‘G‘LI!5-kurs!962-18 KIo'!“O’rnatilgan tizimlar” fanini o’rgatuvchi mobil ilova ishlab chiqish!100!36
+_390181100104!AXMEDOVA ZAROFAT QUDRAT QIZI!5-kurs!962-18 KIo'!IT Center uchun masofaviy ta’lim axborot tizimini ishlab chiqish!70!53
+_390181100105!BOBOJANOV BOBUR - MIRZO MO‘MINJONOVICH!5-kurs!962-18 KIo'!Kontentni boshqarish tizimlaridan foydalangan holda korporativ veb-saytni ishlab chiqish!0!27
+_390181100107!ISMOILOV ISLOMBEK ILXOMBEK O‘G‘LI!5-kurs!962-18 KIo'!Mukammal kitob betlash web dasturini ishlab chiqish!0!52
+_390181100108!ISMOILOVA MATLUBA XUSHNUDBEKOVNA!5-kurs!962-18 KIo'!Xorazm viloyatida joylashgan o‘quv markazlari to‘g‘risida ma’lumot beruvchi axborot tizim ishlab chiqish!10!52
+_390181100109!JABBOROV DASTON ERKIN O‘G‘LI!5-kurs!962-18 KIo'!Patrul xizmati uchun axborot tizimi ishlab chiqish!0!60
+_390181100110!JEPBAROVA LAYLO ALLANAZAROVNA!5-kurs!962-18 KIo'!“Tarixiy onlar”ni yoritib boruvchi veb saxifa ishlab chiqish!100!39
+_390181100256!JUMABOYEV ADHAM SHUHRAT O‘G‘LI!5-kurs!962-18 KIo'!Dorixonalarda tovarlar kirim-chiqimini monitoring qiluvchi mobil ilova ishlab chiqish!80!18
+_390181100111!JUMANIYOZOV MANSURBEK MURADOVICH!5-kurs!962-18 KIo'!Urganch axborot texnologiyalari texnikumida to‘garaklar axborot tizimini ishlab chiqish!0!44
+_390181100112!JUMANIYOZOVA GULORA QO‘ZIBAYEVNA!5-kurs!962-18 KIo'!Qurilish tashkiloti uchun xarajatlar hisobini boshqarish dasturiy vositasini ishlab chiqish!60!39
+_390201100457!KARIMOV ODAMBOY DAVRONBEK O‘G‘LI!5-kurs!962-18 KIo'!Wordpress CMS yordamida Axborot texnokologiyalari kafedrasi ilmiy laboratoriyasi veb saytini ishlab chiqish!70!32
+_390181100113!MATRASULOVA NAFOSAT MATRASULOVNA!5-kurs!962-18 KIo'!Urganch axborot texnologiyalari texnikumida xodimlarni identifikatsiyalovchi avtomatlashtirilgan axborot tizimini ishlab chiqish!45!44
+_390201100484!O‘SKINOV NASIMJON GULMIRZAYEVICH!5-kurs!962-18 KIo'!“Kompyuter injiniringi” yo’nalishi bo’yicha elektron izohli lug’at mobil ilova ishlab chiqish!70!18
+_390181100115!RAXIMOVA SHAXLO ADILBEKOVNA!5-kurs!962-18 KIo'!Wordpress CMS yordamida Urganch shaxar axborot kutubxona markazi veb saytini ishlab chiqish!70!32
+_390181100117!RO‘ZMETOVA RA’NO DAVLATOVNA!5-kurs!962-18 KIo'!Turistik firmalar ishini avtomatlashtirish uchun dasturiy vosita!70!39
+_390181100118!SABIROVA DILFUZA PARXADBAYEVNA!5-kurs!962-18 KIo'!O'zbekiston davlat xoreografiya akademiyasi Urganch filiali dinamik veb saytini ishlab chiqish!50!39
+_390181100121!SAPAYEV FERUZBEK PULATOVICH!5-kurs!962-18 KIo'!Office xavfsizlik tizimini telegram bot yordamida kuzatish axborot tizimini ishlab chqish!0!64
+_390181100120!SAPAYEV OYBEK PALVANNAZIROVICH!5-kurs!962-18 KIo'!Abiturientlar uchun O‘zbekiston davlat Universitetlariga kirish ballari va kvotalarni ko‘rish imkoniyatini beruvchi web ilova ishlab chiqish!0!52
+_390181100122!SULTANOV MUHAMMADJON POLVANNAZIR O‘G‘LI!5-kurs!962-18 KIo'!Internet trafikni filterlash mobil ilovasini ishlab chiqish!70!50
+_390181100123!XODJAYEV IKRAMJON RAXIMBERGONOVICH!5-kurs!962-18 KIo'!Mebel do‘koni uchun axborot tizimi ishlab chiqish!40!44
+_390181100124!ZOKIROV OBBOSBEK SHAVKATBEK O‘G‘LI!5-kurs!962-18 KIo'!Omborxona logistika hisobini yuritish uchun axborot tizimi ishlab chiqish!70!53
+_390181100106!ISMAILOV BOBUR MAQSUDOVICH!5-kurs!962-18 KIo'!Telefon do‘koni tovarlarini hisob kitobini yuritish uchun axborot tizimi ishlab chiqish!0!52
+_390181100114!OTAXONOVA ZILOLA HAMID QIZI!5-kurs!962-18 KIo'!Informatika fani bo’yicha elektron ma’lumotnoma mobil ilovasini ishlab chiqish!100!62
